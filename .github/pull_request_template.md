@@ -1,10 +1,6 @@
 <!--
 Spec-Driven Development PR template.
 Keep it short: say what the PR does, then confirm the checklist below.
-The checklist is checked by .github/workflows/pr-spec-check.yml — an
-unchecked box fails that check but does not block the merge by itself,
-see docs/SPEC_DRIVEN_PR_GUIDE.md for how to wire it up as a required
-status check if you want it to.
 -->
 
 ## Description
